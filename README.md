@@ -1,5 +1,5 @@
-# 💫 About Me:
-🗺️ Hello World! I'm live in Vila Praia de Âncora, Portugal<br>🏫 Currently studying Computer Engineering at IPVC ESTG<br>🧑🏽‍💻 I love learn new languages, but slowly...<br>💡 Organization and dedication are my strong points<br>
+# 👋 Hello World! I'm Hugo Guimarães
+🗺️ I'm live in Vila Praia de Âncora, Portugal<br>🏫 Currently studying Computer Engineering at IPVC ESTG<br>🧑🏽‍💻 I love learn new languages, but slowly...<br>💡 Organization and dedication are my strong points<br>
 
 
 ## 🌐 Socials:
